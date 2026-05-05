@@ -43,23 +43,86 @@
       "playbackSpeed": 1
     },
     {
-      "id": 120148836286579 ,
-      "title": "BKB - HIGH 2",
+      "id": 115169064426415 ,
+      "title": "BKB - TITANIC",
       "category": "BKB",
       "length": 240,
       "playbackSpeed": 1
     },
     {
-      "id": 105739602191495,
-      "title": "BKB - PENIPU HATI",
+      "id": 84913036849560,
+      "title": "BKB - TAGULING GULING",
       "category": "BKB",
       "length": 240,
       "playbackSpeed": 1
     },
     {
-      "id": 135007545647660,
-      "title": "BKB - TERBANG BERSAMAKU",
-      "category": "BKB",
+      "id": 121543294127956,
+      "title": "FUNKOT - TERBANG BERSAMAKU",
+      "category": "FUNKOT",
+      "length": 240,
+      "playbackSpeed": 1
+    },
+    {
+      "id": 127755122135648,
+      "title": "FUNKOT - PENJAGA HATI",
+      "category": "FUNKOT",
+      "length": 240,
+      "playbackSpeed": 1
+    },
+    {
+      "id": 113603362934682,
+      "title": "FUNKOT - MUNAJAT CINTA",
+      "category": "FUNKOT",
+      "length": 240,
+      "playbackSpeed": 1
+    },
+    {
+      "id": 138190640440645,
+      "title": "FUNKOT - PONTIANAK",
+      "category": "FUNKOT",
+      "length": 240,
+      "playbackSpeed": 1
+    },
+    {
+      "id": 107837457071019,
+      "title": "FUNKOT - KUBAYANGKAN",
+      "category": "FUNKOT",
+      "length": 240,
+      "playbackSpeed": 1
+    },
+    {
+      "id": 79095297639987,
+      "title": "FUNKOT - GOYANGKAN KEPALA",
+      "category": "FUNKOT",
+      "length": 240,
+      "playbackSpeed": 1
+    },
+    {
+      "id": 120459622398373,
+      "title": "FUNKOT - JAKARTA HARI INI",
+      "category": "FUNKOT",
+      "length": 240,
+      "playbackSpeed": 1
+    },
+    {
+      "id": 117416383762709,
+      "title": "FUNKOT - KITA MASING MASING",
+      "category": "FUNKOT",
+      "length": 240,
+      "playbackSpeed": 1
+    },
+    {
+      "id": 115828636656431,
+      "title": "FUNKOT - CULIK AKU DONG",
+      "category": "FUNKOT",
+      "length": 240,
+      "playbackSpeed": 1
+    },
+    {
+      "id": 115828636656431,
+      "title": "R&B - Risk It All",
+      "category": "R&B",
       "length": 240,
       "playbackSpeed": 1
     }
